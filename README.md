@@ -68,3 +68,8 @@ with open('val.txt', 'w') as fp:
         fp.write('%s %d\n' % ('ILSVRC2012_val_000%05d.JPEG' % (i+1), tid))
                    
 ```
+```asp
+Author: Chih-Chung Hsu
+Website: https://cchsu.info
+e-mail: cchsu@mail.npust.edu.tw
+```
